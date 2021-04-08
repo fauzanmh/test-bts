@@ -1,2 +1,6 @@
-# test-bts
+# Install
+yarn install
+
+# dev
+yarn run dev
  
